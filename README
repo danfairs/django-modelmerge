@@ -1,0 +1,10 @@
+Introduction
+============
+
+``django-modelmerge`` is a package designed to allow several model instances
+to be merged into one, presenting the user with a UI to choose the value for
+each field.
+
+`Read the full documentation`_.
+
+.. _Read the full documentation: http://django-modelmerge.readthedocs.org/
